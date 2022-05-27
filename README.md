@@ -66,7 +66,7 @@ index.813ae237.js:1 ReferenceError: $ is not defined
     at index.813ae237.js:31:5271
 ```
 
-AI try different ways to fix this bug, but all my attempts are failed. Has anybody ideas to decide this problem?
+I try different ways to fix this bug, but all my attempts are failed. Has anybody ideas to decide this problem? Write your ideas to https://github.com/godbasin/vue-select2/pull/61 in comments.
 
 ## Different info
 
